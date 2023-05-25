@@ -1,3 +1,13 @@
+
+<img src="https://github.com/carolinevoleck/projeto-frontendreact_carolinevoleck/assets/116590798/d40fe125-4367-429f-8705-2ee33a8ddfed"/>
+<img src="https://github.com/carolinevoleck/projeto-frontendreact_carolinevoleck/assets/116590798/79607358-f4a5-4fe4-a200-948e8acc699a"/>
+<img src="https://github.com/carolinevoleck/projeto-frontendreact_carolinevoleck/assets/116590798/2686e3b5-d5b1-4893-b921-10f9472bb7d8"/>
+
+...
+
+Deploy: caroline-projeto-front-end-galaxiatech.surge.sh 
+
+
 # projeto-frontendreact
 
 Esse é o projeto de introdução aos fundamentos do React. Aqui, vamos praticar a estrutura do que consideramos a estrutura do React. O objetivo é que funcione como o front-end de um E-Commerce
